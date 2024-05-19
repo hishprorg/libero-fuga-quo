@@ -1160,10 +1160,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.15":
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.15.tgz#f744bf58e603f52d9f78a1b4caa005103bed952c"
-  integrity sha512-WwvjGzAs19dgn547WpUIRmpD0WFNEKogddl41USj/5+14OG5Z7yeKk8CLxhrnwkwyhiQmVrn0NF1QhnVWOdbEQ==
+"@juigorg/sit-nam-neque@^1.0.16":
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.16.tgz#03a061d30b0e7ba58fef11da1b2409487c002d2e"
+  integrity sha512-OJ071zA1B748ICRCuHZOIIqFRLYS9NXuzsnjH/ll9Jx3SUo1Go5QT8zb0TPGsyxUAj3lQL+bQ9yH8Ee7iiLMjA==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
